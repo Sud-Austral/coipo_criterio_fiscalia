@@ -1,0 +1,435 @@
+7/8/26, 10:35                                  ceropapel.conaf.cl/documentos/documento.php?idDocumento=374377383
+
+
+
+
+           Corporación Nacional Forestal
+           Oficina Central
+           Fiscalía
+           IVI
+
+                                             MEMORANDUM Nº 4187/2026
+           A      : GERENTE (I)-GERENCIA DE PROTECCIÓN CONTRA INCENDIOS
+                    FORESTALES
+           DE     : DANIEL CORREA DÍAZ-FISCAL (I) FISCALÍA
+           MATERIA: PRONUNCIAMIENTO DE LA LEY 21.719 SOBRE SISTEMA DE FICHAS
+                    DIGITALES DE LA GERENCIA DE PROTECCIÓN CONTRA INCENDIOS
+                    FORESTALES
+           FECHA : 06/08/2026
+
+
+
+                Mediante el memorándum 4035/2026, la Gerencia de Protección Contra Incendios Forestales
+                expuso que evalúa el desarrollo de un sistema de fichas digitales para el personal que participa
+                en operaciones de control y combate de incendios forestales, en el marco de la implementación
+                del Sistema de Comando de Incidentes (SCI), cuya finalidad es permitir al Comandante de
+                Incidente y a las Centrales de Coordinación mejorar la asignación táctica del personal durante
+                las emergencias. La ficha contendría, de manera preliminar, datos de identificación; contacto
+                institucional y personal; contacto para casos de emergencia; cargo, función y dependencia;
+                formación, cursos y certificaciones, especialmente en SCI; experiencia operativa y
+                competencias técnicas; y evaluaciones de desempeño operativo y antecedentes de trayectoria
+                institucional. Sobre esa base, se solicita pronunciamiento en cinco aspectos, que se abordan en
+                el orden propuesto.
+
+                Se ha precisado a esta Fiscalía que la ficha se concibe como una aplicación destinada a ser
+                instalada en los teléfonos celulares de cada trabajador de la Corporación.
+
+                I. MARCO NORMATIVO Y CUESTIÓN PREVIA
+
+                1. La Ley N° 21.719, publicada el 13 de diciembre de 2024, sustituyó íntegramente el contenido
+                de la Ley N° 19.628 y entra en vigencia el 1 de diciembre de 2026 conforme a su artículo
+                primero transitorio. Aun cuando a esta fecha rige el texto anterior, la puesta en marcha del
+                sistema será posterior o coetánea a dicha vigencia, de modo que el diseño debe concebirse
+                desde su origen conforme al nuevo estatuto, en aplicación del deber de protección desde el
+                diseño y por defecto del artículo 14 quáter. Un desarrollo ajustado únicamente al régimen actual
+                nacerá disconforme. Concurren, además, el artículo 19 N°4 de la Constitución Política; los
+                artículos 5°, 152 quáter L, 154 y 154 bis del Código del Trabajo, así como la doctrina reiterada
+                de la Dirección del Trabajo sobre medidas de control del empleador; y la Ley N° 16.744.
+
+                2. Cuestión previa: la ley contempla dos regímenes, el general de los artículos 12, 13 y 16, y el
+                especial del Título IV, cuyo artículo 20 declara lícito el tratamiento que los órganos públicos
+                efectúan para el cumplimiento de sus funciones legales, sin necesidad de consentimiento.
+                Siendo la Corporación una corporación de derecho privado, su encuadre en la noción de
+                "órgano público" para estos efectos es discutible y no existe todavía posición institucional
+                formalizada ni criterio de la Agencia de Protección de Datos Personales. Por prudencia jurídica,
+                este pronunciamiento adopta un anclaje dual: la licitud se funda en primer término en el artículo
+                13 letras b) y c) y sólo subsidiariamente en el artículo 20 (SERNAFOR), de modo que la validez
+                del sistema no quede supeditada al resultado de una discusión aún abierta.
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=374377383                                           1/7
+7/8/26, 10:35                                  ceropapel.conaf.cl/documentos/documento.php?idDocumento=374377383
+                II. ANÁLISIS
+
+                A. Viabilidad jurídica
+
+                1. La respuesta es afirmativa. La ley no prohíbe el tratamiento de datos del personal; lo somete
+                a condiciones de licitud, finalidad, proporcionalidad y seguridad. Más aún, esta Fiscalía estima
+                que la iniciativa cuenta con un fundamento particularmente sólido: la finalidad declarada,
+                asignar personal según sus competencias y acreditaciones efectivas, es instrumental al
+                cumplimiento del deber de protección eficaz de la vida y salud de los trabajadores del artículo
+                184 del Código del Trabajo y de las obligaciones de la Ley N° 16.744. Destinar personal a la
+                línea de fuego sin conocimiento cierto de su formación, acreditación y aptitud constituye,
+                precisamente, una infracción a ese deber. Correctamente diseñada, la herramienta no es un
+                riesgo en materia de datos personales, sino un instrumento de cumplimiento.
+
+                2. La viabilidad es, con todo, condicionada: el sistema será lícito en la medida en que cada
+                categoría de dato cuente con base de licitud idónea y acreditable; se respeten los principios del
+                artículo 3°; se cumplan los deberes de los artículos 14 y siguientes; se practique la evaluación
+                de impacto del artículo 15 ter antes de la puesta en marcha; y se excluyan o sometan a régimen
+                especial los datos sensibles. La modalidad de aplicación móvil sobre dispositivos personales
+                agrega condiciones adicionales, que se examinan en el apartado C.
+
+                B. Datos que pueden incorporarse, fundamento legal y consentimiento
+
+                1. El consentimiento no es la base idónea. El artículo 12 exige que sea libre, informado,
+                específico, previo e inequívoco, y lo declara esencialmente revocable. En la relación laboral
+                existe una asimetría estructural que compromete la libertad de la manifestación de voluntad:
+                difícilmente puede sostenerse que un trabajador consiente libremente cuando quien lo requiere
+                es su empleador.
+
+                2. La base idónea es la del artículo 13 letra b): cumplimiento de una obligación legal, en relación
+                con el artículo 184 del Código del Trabajo y la Ley N° 16.744; y la del artículo 13 letra c)
+                ejecución del contrato de trabajo, con el artículo 20 como fundamento subsidiario y el artículo 13
+                letra d) como base residual para hipótesis acotadas, previa ponderación documentada. El
+                consentimiento queda reservado a un ámbito estrictamente voluntario: aquellos campos que el
+                funcionario desee aportar en su propio beneficio, caso en el cual deberá ser expreso, separado
+                del contrato, revocable, y dejarse constancia de que la negativa no acarrea consecuencia
+                laboral alguna.
+
+                3. En cuanto a los campos, aplicando los principios de finalidad y proporcionalidad, el criterio
+                rector debe ser restrictivo: la ficha no es un expediente del funcionario, sino un instrumento
+                operativo. En concreto:
+
+                   a) Proceden sin dificultad, y constituyen el núcleo legítimo del sistema: identificación;
+                   cargo, función y dependencia; contacto institucional; formación, cursos, certificaciones y
+                   acreditaciones SCI, con su respectiva vigencia; y experiencia operativa y competencias
+                   técnicas, registradas sobre hechos objetivos y verificables —incidentes, rol desempeñado,
+                   horas— y no sobre apreciaciones subjetivas.
+
+                   b) Proceden con restricciones los datos de contacto personal, en cuanto sean necesarios
+                   para la convocatoria fuera de jornada, limitados a lo indispensable y visibles sólo para los
+                   perfiles de coordinación.
+
+                   c) Requiere tratamiento diferenciado el contacto para casos de emergencia. Debe
+                   advertirse que estos datos no pertenecen al funcionario sino a un tercero tales como el
+                   cónyuge, conviviente o un familiar, quien es su titular y respecto de quien la Corporación
+                   pasa a ser responsable. Su tratamiento debe fundarse en el artículo 13 letra d) y cumplirse a
+                   su respecto el deber de información del artículo 14 ter, sea comunicando al tercero, sea
+                   recabando del funcionario declaración de contar con su autorización. Se recomienda limitar
+                   el registro a nombre, parentesco y un número de contacto.
+
+                   d) Requieren especial cautela las evaluaciones de desempeño operativo, las
+                   competencias observadas y los antecedentes de trayectoria. No son datos sensibles, pero
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=374377383                                             2/7
+7/8/26, 10:35                                   ceropapel.conaf.cl/documentos/documento.php?idDocumento=374377383
+                   producen efectos directos sobre la carrera del funcionario. Su tratamiento exige
+                   procedimiento reglado y conocido por el evaluado, registro de apreciaciones fundadas,
+                   respeto del derecho de rectificación del artículo 6° y, en virtud del principio de finalidad,
+                   prohibición de emplearlos para fines distintos del declarado como procesos de
+                   desvinculación o promoción sin base de licitud propia e información previa.
+
+                   e) Deben excluirse los antecedentes disciplinarios o relativos a infracciones, sometidos al
+                   régimen especial del artículo 25, que prohíbe su comunicación una vez extinguida la
+                   responsabilidad respectiva. Su incorporación a una ficha operativa consultable por múltiples
+                   perfiles resulta desproporcionada y jurídicamente riesgosa.
+
+                4. Datos sensibles. El artículo 2° letra g) califica como tales, entre otros, los datos relativos a la
+                salud, al perfil biológico, los datos biométricos, el origen étnico, la afiliación sindical, la situación
+                socioeconómica, las convicciones y la información sobre vida sexual, orientación sexual e
+                identidad de género; conforme al artículo 16, su tratamiento requiere consentimiento
+                expreso, salvo hipótesis excepcionales. La categoría crítica en este caso es la de salud:
+                es previsible que el sistema tienda a incorporar aptitud física, exámenes ocupacionales o
+                licencias médicas, todos ellos sujetos al régimen especialmente restrictivo del artículo 16 bis,
+                que limita expresamente su tratamiento en el ámbito laboral. Esta Fiscalía es de parecer que
+                tales antecedentes no deben alojarse en la ficha.
+
+                5. La solución correcta consiste en disociar el dato de salud del atributo operativo. La
+                ficha no debe registrar diagnósticos, resultados de exámenes ni condiciones médicas, sino
+                únicamente un atributo binario "apto" o "no apto" para funciones operativas, con su fecha
+                de vigencia, generado y actualizado por la unidad de medicina del trabajo o por el organismo
+                administrador de la Ley N° 16.744. De este modo el Comandante de Incidente dispone de la
+                información que necesita para decidir sin acceder a dato sensible alguno, satisfaciéndose
+                simultáneamente el artículo 184 del Código del Trabajo y las restricciones del artículo 16 bis.
+                Tratándose de grupo sanguíneo, alergias o medicación crítica, su registro puede justificarse en
+                la salvaguarda de la vida e integridad del titular, con consentimiento expreso, carácter
+                voluntario, alojamiento en un módulo de emergencia segregado y registro de acceso. Los datos
+                biométricos, regidos por el artículo 16 ter, no deben incorporarse; se advierte que el uso de
+                fotografía para identificación en terreno es admisible, pero su empleo para reconocimiento facial
+                la convertiría en dato biométrico. Los restantes datos sensibles deben excluirse derechamente
+                por carecer de relación con la finalidad declarada.
+
+                C. La implementación como aplicación instalada en el teléfono de cada trabajador
+
+                1. La definición de materializar la ficha en una aplicación residente en el teléfono personal de
+                cada trabajador desplaza el tratamiento desde un entorno institucional controlado hacia un
+                dispositivo de propiedad del trabajador, en el que conviven su vida privada y su actividad
+                laboral. Ello plantea tres cuestiones que el memorándum de la referencia no contemplaba: si es
+                lícito exigir el uso de un bien propio del trabajador; qué datos captura la aplicación del
+                dispositivo, adicionales a los campos de la ficha; y cómo se resguarda la información que queda
+                residente en un terminal ajeno al control de la Corporación. Se examinan en ese orden.
+
+                2. El uso del dispositivo personal no puede imponerse unilateralmente. El artículo 5° del Código
+                del Trabajo somete las facultades del empleador al respeto de las garantías constitucionales del
+                trabajador. A su turno, el artículo 152 quáter L, si bien referido al trabajo a distancia, expresa un
+                principio de alcance general en cuanto dispone que los equipos, herramientas y materiales para
+                el trabajo deben ser proporcionados por el empleador, que el trabajador "no podrá ser obligado
+                a utilizar elementos de su propiedad", y que los costos de operación, funcionamiento,
+                mantenimiento y reparación son siempre de cargo del empleador.
+
+                3. Conviene distinguir con precisión dos cuestiones que suelen confundirse. La base de licitud
+                del tratamiento de los datos contenidos en la ficha es la ya señalada: artículo 13 letras b) y c); y
+                no requiere consentimiento del trabajador. Cosa distinta es el empleo de su teléfono como
+                soporte material de la herramienta, que sí requiere su acuerdo, no por razones de protección de
+                datos, sino porque recae sobre un bien de su propiedad. La primera cuestión es de derecho de
+                datos; la segunda, de derecho del trabajo.
+
+
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=374377383                                                   3/7
+7/8/26, 10:35                                  ceropapel.conaf.cl/documentos/documento.php?idDocumento=374377383
+                4. En consecuencia, esta Fiscalía recomienda el siguiente criterio sobre equipamiento: (i) los
+                perfiles con acceso ampliado —Comandante de Incidente, Centrales de Coordinación y
+                jefaturas—, por ser quienes acceden a datos de terceros, deben operar sobre dispositivos
+                institucionales provistos y administrados por la Corporación; (ii) respecto del personal en
+                general, la instalación en el equipo propio debe ser voluntaria, formalizada en un acuerdo
+                escrito de uso, con provisión de una asignación que cubra el costo de operación; y (iii)
+                debe existir siempre una vía alternativa de acceso —a través de la jefatura directa o de la
+                Central de Coordinación— para quien no disponga de un equipo compatible o no desee instalar
+                la aplicación. La tenencia de un teléfono inteligente no puede convertirse en condición de
+                asignación operativa ni incidir, directa o indirectamente, en la evaluación del trabajador.
+
+                5. Permisos de la aplicación. Cada permiso que la aplicación solicite al sistema operativo
+                constituye un tratamiento adicional, que exige base de licitud propia y debe superar el examen
+                de proporcionalidad del artículo 3°. Se recomienda: (i) no solicitar acceso a la agenda de
+                contactos, mensajería, galería ni archivos del dispositivo, pues ello importaría tratar
+                datos de terceros enteramente ajenos a la relación laboral, sin base de licitud posible; (ii)
+                habilitar cámara y micrófono sólo por activación puntual del usuario para una función
+                determinada, sin operación en segundo plano; y (iii) limitar las notificaciones y los
+                identificadores del dispositivo a lo indispensable para la convocatoria, excluyendo componentes
+                de analítica publicitaria o de terceros que extraigan telemetría.
+
+                6. Geolocalización. Es el punto de mayor riesgo jurídico de esta modalidad. Un
+                seguimiento continuo de la ubicación constituiría una medida de control del trabajador y
+                quedaría sujeto a los artículos 154 y 154 bis del Código del Trabajo y a la doctrina reiterada de
+                la Dirección del Trabajo, conforme a la cual las medidas de control deben responder a
+                requerimientos técnicos del proceso o a razones de seguridad, ser idóneas, necesarias y
+                proporcionadas, aplicarse de manera general e impersonal, respetar la dignidad del trabajador e
+                incorporarse previamente al Reglamento Interno, no pudiendo tener por finalidad principal la
+                vigilancia de la actividad laboral. La seguridad del personal desplegado en la línea de fuego
+                justifica sobradamente esta funcionalidad, pero sólo en los siguientes términos: que la
+                ubicación se comparta únicamente durante la operación asignada, mediante acción
+                afirmativa del trabajador; que exista un indicador visible mientras el envío esté activo;
+                que no haya captura en segundo plano ni fuera de la jornada; y que la conservación se
+                acote a la duración del incidente y a su análisis posterior.
+
+                7. Extravío del terminal como vulneración de seguridad. El acuerdo de uso y el Reglamento
+                Interno deberán imponer al trabajador el deber de comunicar de inmediato la pérdida o
+                sustracción del equipo, y a la Corporación el de evaluar si el hecho configura una vulneración
+                notificable en los términos del artículo 14 sexies, activando el borrado selectivo y la revocación
+                de credenciales.
+
+                8. Consecuencias. La modalidad de aplicación móvil sobre dispositivos personales eleva el nivel
+                de riesgo del tratamiento y torna indiscutible la exigencia de la evaluación de impacto del
+                artículo 15 ter, la que deberá abordar específicamente los permisos solicitados, la
+                geolocalización, el almacenamiento local y los flujos hacia terceros. Del mismo modo, el uso de
+                la aplicación y las medidas de control asociadas deberán incorporarse al Reglamento Interno de
+                Orden, Higiene y Seguridad con anterioridad a su puesta en marcha.
+
+                D. Medidas de seguridad
+
+                Rigen el deber de adoptar medidas de seguridad del artículo 14 quinquies, el de protección
+                desde el diseño y por defecto del artículo 14 quáter, el de secreto o confidencialidad del artículo
+                14 bis y el de reportar vulneraciones del artículo 14 sexies. El sistema debiera contemplar, a lo
+                menos: (i) control de acceso por perfiles y necesidad de conocer, de modo que ningún perfil
+                acceda a la ficha completa, así por ejemplo: el Comandante de Incidente y las Centrales
+                visualizan competencias, acreditaciones vigentes, atributo de aptitud y contacto operativo; la
+                Gerencia de Desarrollo de las Personas, los antecedentes administrativos; y el módulo de
+                emergencia permanece segregado; (ii) autenticación robusta, con doble factor para perfiles de
+                acceso ampliado, y cifrado en tránsito y en reposo; (iii) trazabilidad íntegra e inalterable de
+                accesos y modificaciones, auditable, que deriva del principio de responsabilidad y constituye el
+                principal medio de prueba de la diligencia institucional ante una fiscalización; (iv) deber de
+
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=374377383                                             4/7
+7/8/26, 10:35                                  ceropapel.conaf.cl/documentos/documento.php?idDocumento=374377383
+                secreto formalizado en los contratos de trabajo y en el Reglamento Interno, extensivo a jefes de
+                cuadrilla, brigadistas y personal de temporada, y subsistente tras el término de la relación; (v)
+                procedimiento formal de gestión de brechas, con responsable interno, plazos de escalamiento y
+                reglas de notificación a la Agencia y, cuando se afecten datos sensibles, a los titulares; (vi)
+                contrato escrito con encargados de tratamiento conforme al artículo 15 bis si el desarrollo,
+                alojamiento o soporte se externaliza, verificando si la infraestructura implica transferencia
+                internacional de datos; (vii) las medidas propias de la modalidad móvil señaladas en el apartado
+                C, en especial la minimización de permisos, el cifrado y expiración del almacenamiento local, el
+                bloqueo de captura de pantalla, el borrado remoto selectivo y la prohibición de difundir el
+                contenido por canales de mensajería no institucionales; y (viii) seudonimización o anonimización
+                para fines estadísticos y de reportería de gestión.
+
+                E. Conservación, actualización y eliminación
+
+                El principio de finalidad impone conservar los datos sólo por el tiempo necesario,
+                debiendo suprimirse o anonimizarse una vez cumplidos los fines. Se advierte que la
+                práctica de definir la conservación como "indefinida", observada en buena parte de los registros
+                de la matriz institucional de bases de datos, resulta contraria a la ley y no debe replicarse. Todo
+                campo debe tener plazo determinado o criterio objetivo de determinación. Como criterio
+                general: los datos de identificación, cargo y contacto se conservan durante la vigencia de
+                la relación laboral, y con posterioridad sólo en cuanto sea necesario para la defensa de
+                eventuales acciones, atendidos los plazos de prescripción de los artículos 510 del Código
+                del Trabajo y 79 de la Ley N° 16.744; la formación, certificaciones, acreditaciones SCI y
+                experiencia operativa —cuya conservación es la mejor justificada— se mantienen por el
+                plazo necesario para acreditar la diligencia institucional ante acciones derivadas de
+                accidentes del trabajo; el contacto de emergencia y los datos de salud aportados
+                voluntariamente se suprimen al término de la relación o al revocarse el consentimiento,
+                sin admitir conservación histórica; los registros de geolocalización se acotan a la
+                duración del incidente y a su análisis posterior; y las evaluaciones de desempeño se
+                limitan a los ciclos pertinentes para la asignación, evitando la acumulación indefinida de
+                apreciaciones.
+
+                Se recomienda establecer una campaña obligatoria de validación previa al inicio de cada
+                temporada de incendios, con control automatizado de vigencia de las certificaciones, y radicar
+                formalmente en una unidad determinada la responsabilidad de actualización de cada campo. En
+                materia de eliminación, deberá establecerse un procedimiento documentado de depuración
+                periódica, a lo menos anual, del cual se levante acta, y un procedimiento de respuesta al
+                derecho de supresión del artículo 7°. La desinstalación de la aplicación o el término de la
+                relación laboral deberán gatillar el borrado del contenedor corporativo en el terminal.
+
+                F. Otras observaciones y requisitos legales
+
+                Evaluación de impacto obligatoria y previa. Conforme al artículo 15 ter, procede realizarla
+                cuando el tratamiento presente alta probabilidad de riesgo para los derechos de los titulares. La
+                iniciativa reúne varios de los factores que activan la exigencia: tratamiento sistemático de datos
+                de personal, evaluación de aspectos personales, escala institucional, eventual incidencia de
+                datos de salud y, ahora, ejecución sobre dispositivos personales con eventual tratamiento de
+                geolocalización. Debe practicarse antes de la puesta en marcha y no como validación posterior.
+                A juicio de esta Fiscalía, constituye el requisito de mayor relevancia práctica del presente
+                pronunciamiento.
+
+                Decisiones automatizadas. Se recomienda configurar el sistema como herramienta de apoyo a
+                la decisión, manteniendo la asignación final radicada en una persona, el Comandante de
+                Incidente, y declararlo así en la política de tratamiento y en la documentación funcional. Esta
+                definición debe adoptarse en la etapa de diseño.
+
+                Deber de información y ejercicio de derechos. En virtud del artículo 14 ter deberá
+                informarse a cada funcionario, antes de la puesta en marcha, la existencia del sistema,
+                las categorías de datos, las finalidades, los destinatarios internos, los plazos de
+                conservación y la forma de ejercer sus derechos. Se recomienda instrumentar el deber
+                mediante documento informativo específico, incorporación de la materia al Reglamento Interno
+
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=374377383                                             5/7
+7/8/26, 10:35                                  ceropapel.conaf.cl/documentos/documento.php?idDocumento=374377383
+                de Orden, Higiene y Seguridad con sujeción al procedimiento de los artículos 153 y siguientes
+                del Código del Trabajo y cláusula referencial en contratos y anexos. Deberá asimismo
+                habilitarse un canal formal para el ejercicio de los derechos de los artículos 4° a 11, coordinado
+                con el canal institucional único cuya implementación se encuentra pendiente.
+
+                Registro, minimización y gobernanza. La nueva base deberá incorporarse a la matriz
+                institucional de bases de datos personales, evitando su operación como registro paralelo no
+                documentado. Se reitera la conveniencia de designar un Delegado de Protección de Datos
+                y de avanzar en un modelo de prevención de infracciones, conforme a los artículos 49 y
+                50.
+
+                Exposición sancionatoria y diálogo interno. La ley califica como gravísimo el tratamiento
+                de datos sensibles sin base de licitud, con multas de hasta 20.000 unidades tributarias
+                mensuales, y como grave el incumplimiento de los deberes de información, seguridad y reporte
+                de brechas, con multas de hasta 10.000 unidades tributarias mensuales, sin perjuicio de la
+                responsabilidad laboral o civil. A ello se agrega, en esta modalidad, la eventual acción de tutela
+                de derechos fundamentales de los artículos 485 y siguientes del Código del Trabajo si las
+                medidas de control asociadas a la aplicación se estimaren lesivas de la vida privada del
+                trabajador. Ello refuerza la conveniencia de adoptar estas definiciones en la etapa de diseño.
+                Finalmente, sin constituir requisito legal, se estima recomendable informar y escuchar a las
+                organizaciones sindicales antes de la implementación, lo que mitiga la litigiosidad propia de los
+                sistemas de registro de desempeño y de control mediante dispositivos, y facilita la modificación
+                del Reglamento Interno.
+
+                III. CONCLUSIONES
+
+                En mérito de lo expuesto, esta Fiscalía concluye lo siguiente:
+
+                PRIMERO: Que es jurídicamente viable implementar un sistema institucional de fichas digitales
+                del personal operativo conforme a la Ley N° 21.719, en la medida en que se cumplan las
+                condiciones señaladas en los numerales siguientes.
+
+                SEGUNDO: Que el tratamiento debe fundarse en el artículo 13 letras b) y c) de la ley, esto es,
+                cumplimiento de una obligación legal y ejecución del contrato de trabajo, en relación con el
+                artículo 184 del Código del Trabajo y la Ley N° 16.744, y sólo subsidiariamente en el artículo 20,
+                atendida la naturaleza jurídica de la Corporación, sobre todo cuando se produzca el traspaso a
+                SERNAFOR.
+
+                TERCERO: Que el consentimiento del trabajador no constituye base de licitud idónea para el
+                núcleo del sistema, por comprometer la libertad de la manifestación de voluntad y ser
+                esencialmente revocable, quedando reservado a los campos voluntarios indicados en el
+                apartado II.B.2.
+
+                CUARTO: Que pueden incorporarse los datos de identificación, cargo, función y dependencia,
+                contacto institucional, formación, certificaciones y acreditaciones SCI y experiencia operativa;
+                con restricciones, los datos de contacto personal; y con las prevenciones señaladas, el contacto
+                de emergencia y las evaluaciones de desempeño operativo.
+
+                QUINTO: Que no deben incorporarse a la ficha los datos relativos a la salud, los datos
+                biométricos, los antecedentes disciplinarios ni los restantes datos sensibles del artículo 2° letra
+                g). Respecto de la aptitud para funciones operativas deberá registrarse únicamente un atributo
+                binario "apto / no apto" con su vigencia, sin diagnóstico ni antecedente clínico alguno.
+
+                SEXTO: Que el sistema deberá contemplar control de acceso por perfiles, autenticación
+                robusta, cifrado, trazabilidad íntegra de accesos y modificaciones, deber de secreto formalizado,
+                procedimiento de gestión de brechas y contratos de encargo conforme al artículo 15 bis.
+
+                SÉPTIMO: Que todo campo deberá tener plazo de conservación determinado, quedando
+                prohibida la conservación indefinida, y deberán establecerse procedimientos formales de
+                actualización periódica y de eliminación documentada, comprensivos de los datos residentes en
+                los dispositivos.
+
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=374377383                                             6/7
+7/8/26, 10:35                                  ceropapel.conaf.cl/documentos/documento.php?idDocumento=374377383
+                OCTAVO: Que, con carácter previo a la puesta en marcha, deberá practicarse la evaluación de
+                impacto en protección de datos del artículo 15 ter que abordará específicamente los permisos
+                de la aplicación, la geolocalización, el almacenamiento local y los flujos hacia terceros; e
+                informarse a los funcionarios en los términos del artículo 14 ter.
+
+                NOVENO: Que la asignación de personal deberá permanecer siempre radicada en una decisión
+                humana, configurándose el sistema como herramienta de apoyo y no como mecanismo de
+                decisión automatizada, para los efectos del artículo 8° bis.
+
+                DÉCIMO: Que la instalación de la aplicación en dispositivos de propiedad del trabajador no
+                puede imponerse unilateralmente, conforme al artículo 5° del Código del Trabajo y al principio
+                que informa su artículo 152 quáter L. Los perfiles con acceso ampliado deberán operar sobre
+                equipos institucionales; respecto del personal en general, la instalación será voluntaria,
+                formalizada en un acuerdo escrito de uso y con compensación del costo de operación, debiendo
+                mantenerse una vía alternativa de acceso.
+
+                UNDÉCIMO: Que la aplicación deberá limitarse a los permisos indispensables, sin acceso a la
+                agenda de contactos, mensajería, galería ni archivos del dispositivo, y que la geolocalización
+                sólo podrá activarse durante la operación asignada, por acción afirmativa del trabajador y con
+                indicador visible, sin captura en segundo plano ni fuera de la jornada, quedando sujeta a los
+                artículos 154 y 154 bis del Código del Trabajo y a su previa incorporación al Reglamento Interno
+                de Orden, Higiene y Seguridad.
+
+                DUODÉCIMO: Que la capacidad de borrado remoto deberá ser selectiva y circunscrita al
+                contenedor corporativo de la aplicación, quedando técnicamente impedida de operar sobre el
+                contenido propio del trabajador, por exceder ello las facultades del empleador.
+
+           Saluda atentamente a usted
+
+
+
+
+                                                                               DANIEL CORREA DÍAZ
+                                                                                    FISCAL (I)
+                                                                                    FISCALÍA
+
+
+                                                              Adjuntos
+
+                                        Documento            Fecha Publicación
+                                        4035/2026 Memorandum 30/07/2026
+
+           c.c.:Raúl Diaz Castillo Abogado Jefe (I) Fiscalía
+                Ignacio Valenzuela Isla Abogado Fiscalía
+                Jaeel Raysa Moraga Veras Jefa (I) Unidad Asesora de Gestión y Planificación
+                Estratégica
+                Simón Barschak Brunman Gerente (I) Gerencia de Desarrollo de las Personas
+                José Villavicencio Rojas Jefe (I) (S) Sección Análisis y Predicción de Incendios
+                Forestales
+                Víctor Hugo Cabezas Pérez Jefe (I) Sección Coordinación y Movilización
+
+
+
+
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=374377383                                          7/7
+

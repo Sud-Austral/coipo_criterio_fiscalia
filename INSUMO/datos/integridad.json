@@ -1,0 +1,199 @@
+[
+ {
+  "codigo": "V01",
+  "titulo": "Cita literal verificada",
+  "glosa": "citas contrastadas contra el texto congelado",
+  "total": 20,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "V02",
+  "titulo": "Pasaje trazado al fuente",
+  "glosa": "pasajes que existen literalmente en su documento",
+  "total": 285,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "V03",
+  "titulo": "Hash del binario registrado",
+  "glosa": "documentos con sha256 del PDF registrado",
+  "total": 20,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "V04",
+  "titulo": "Criterio principal indexado",
+  "glosa": "documentos con su criterio principal indexado",
+  "total": 20,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "V05",
+  "titulo": "Sin documento invisible",
+  "glosa": "documentos con al menos un pasaje recuperable",
+  "total": 20,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "V06",
+  "titulo": "Materia curada e inferida",
+  "glosa": "documentos con materia curada y materia inferida del texto",
+  "total": 20,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "V07",
+  "titulo": "Cierre de citas completo",
+  "glosa": "referencias resueltas al corpus o declaradas como vacío",
+  "total": 37,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "V08",
+  "titulo": "Identidad canónica de autoridades",
+  "glosa": "autoridades sin colisión entre sus variantes de cita",
+  "total": 15,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "V09",
+  "titulo": "Consistencia cronológica",
+  "glosa": "referencias cuya fecha es anterior a la del documento que las cita",
+  "total": 37,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "V10",
+  "titulo": "Cobertura multi-vía",
+  "glosa": "documentos alcanzables por dos o más vías independientes",
+  "total": 20,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "V11",
+  "titulo": "Sin duplicados",
+  "glosa": "documentos sin duplicado de contenido en el índice",
+  "total": 20,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "V12",
+  "titulo": "Divergencias declaradas",
+  "glosa": "pares con materia común: relación declarada o marcados para revisión",
+  "total": 190,
+  "fallos": [
+   "MM-5532-2020 ↔ MM-862-2021 (Fiscalización forestal)",
+   "MM-5532-2020 ↔ MM-5939-2025 (Planes de manejo)",
+   "MM-5532-2020 ↔ MM-2665-2026 (Planes de manejo)",
+   "MM-751-2021 ↔ MM-862-2021 (Contratación pública)",
+   "MM-751-2021 ↔ MM-1683-2026 (Contratación pública)",
+   "MM-751-2021 ↔ MM-1688-2026 (Actos administrativos)",
+   "MM-751-2021 ↔ MM-2061-2026 (Contratación pública)",
+   "MM-862-2021 ↔ MM-1683-2026 (Contratación pública)",
+   "MM-862-2021 ↔ MM-2061-2026 (Contratación pública)",
+   "MM-5939-2025 ↔ MM-2665-2026 (Planes de manejo)",
+   "MM-5939-2025 ↔ MM-2698-2026 (Planes de manejo)",
+   "MM-1683-2026 ↔ MM-2061-2026 (Contratación pública)",
+   "MM-2665-2026 ↔ MM-2698-2026 (Planes de manejo)"
+  ],
+  "severidad": "aviso"
+ },
+ {
+  "codigo": "V13",
+  "titulo": "Vocabulario único",
+  "glosa": "descriptores curados que resuelven a un término preferido",
+  "total": 30,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "V14",
+  "titulo": "Tesauro sin nombres de fuentes",
+  "glosa": "términos del tesauro que no son nombres de fuentes ni de órganos",
+  "total": 248,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "V15",
+  "titulo": "Normas de la ficha respaldadas",
+  "glosa": "normas de la ficha cuyo rótulo coincide con la forma en que el documento las cita",
+  "total": 84,
+  "fallos": [
+   "MM-3400-2022: «Resolución CONAF 591/2020» — cuerpo no hallado",
+   "MM-1683-2026: «Ley 19.886 art. 3 transitorio» — artículo no citado",
+   "MM-2665-2026: «DS 93/2008 art. 22» — cuerpo no hallado",
+   "OF-442-2026: «Ley de Presupuestos 2026, Partida 13 Glosa 11» — cuerpo no hallado",
+   "RES-884-2026: «DS 25/2026 MINAGRI» — cuerpo no hallado",
+   "RES-884-2026: «Estatutos CONAF art. 18» — cuerpo no hallado"
+  ],
+  "severidad": "aviso"
+ },
+ {
+  "codigo": "C1",
+  "titulo": "Campos leídos existen en el índice",
+  "glosa": "referencias a campos inexistentes o desfasados",
+  "total": 55,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "C2",
+  "titulo": "Nodos de líneas apuntan al corpus",
+  "glosa": "documentos citados en las cadenas que existen",
+  "total": 17,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "C3",
+  "titulo": "Cadenas respaldadas por relaciones de ficha",
+  "glosa": "eslabones consecutivos con relación declarada en el índice",
+  "total": 4,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "C4",
+  "titulo": "Alertas reflejan el estado del índice",
+  "glosa": "alertas consistentes con los estados calculados",
+  "total": 8,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "C5",
+  "titulo": "Cifras del texto coinciden con el índice",
+  "glosa": "cifras escritas a mano contrastadas; otras 24 se interpolan del índice",
+  "total": 3,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "C6",
+  "titulo": "Fuente única para las normas",
+  "glosa": "índice fusionado de 155 entradas, 8 confirmadas en ficha y texto",
+  "total": 1,
+  "fallos": [],
+  "severidad": "ok"
+ },
+ {
+  "codigo": "C7",
+  "titulo": "Materias mostradas están en el tesauro",
+  "glosa": "toda materia visible es un término preferido",
+  "total": 18,
+  "fallos": [],
+  "severidad": "ok"
+ }
+]

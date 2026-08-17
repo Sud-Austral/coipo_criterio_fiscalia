@@ -1,0 +1,51 @@
+[
+ {
+  "codigo": "C1",
+  "titulo": "Campos leídos existen en el índice",
+  "fallos": [],
+  "total": 55,
+  "glosa": "referencias a campos inexistentes o desfasados"
+ },
+ {
+  "codigo": "C2",
+  "titulo": "Nodos de líneas apuntan al corpus",
+  "fallos": [],
+  "total": 17,
+  "glosa": "documentos citados en las cadenas que existen"
+ },
+ {
+  "codigo": "C3",
+  "titulo": "Cadenas respaldadas por relaciones de ficha",
+  "fallos": [],
+  "total": 4,
+  "glosa": "eslabones consecutivos con relación declarada en el índice"
+ },
+ {
+  "codigo": "C4",
+  "titulo": "Alertas reflejan el estado del índice",
+  "fallos": [],
+  "total": 8,
+  "glosa": "alertas consistentes con los estados calculados"
+ },
+ {
+  "codigo": "C5",
+  "titulo": "Cifras del texto coinciden con el índice",
+  "fallos": [],
+  "total": 3,
+  "glosa": "cifras escritas a mano contrastadas; otras 24 se interpolan del índice"
+ },
+ {
+  "codigo": "C6",
+  "titulo": "Fuente única para las normas",
+  "fallos": [],
+  "total": 1,
+  "glosa": "índice fusionado de 155 entradas, 8 confirmadas en ficha y texto"
+ },
+ {
+  "codigo": "C7",
+  "titulo": "Materias mostradas están en el tesauro",
+  "fallos": [],
+  "total": 18,
+  "glosa": "toda materia visible es un término preferido"
+ }
+]

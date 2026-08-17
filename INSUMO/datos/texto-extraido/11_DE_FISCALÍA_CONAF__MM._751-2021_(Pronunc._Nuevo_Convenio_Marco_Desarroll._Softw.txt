@@ -1,0 +1,140 @@
+18/2/2021                                 https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=160699360
+
+
+
+
+            CORPORACIÓN NACIONAL FORESTAL
+            OFICINA CENTRAL
+            FISCALIA
+            DPN
+
+                                             MEMORANDUM Nº 751/2021
+            A      : JEFE (I)-DEPARTAMENTO ABASTECIMIENTO
+            DE     : FERNANDO LLONA MÁRQUEZ - FISCAL FISCALIA
+            MATERIA: OTORGA ORIENTACIÓN JURÍDICA
+            FECHA : 16/02/2021
+
+
+
+             Mediante Memorándum Nº 696, de 15 de febrero de 2020, el Jefe del Departamento de
+             Abastecimiento solicita orientación jurídica ya que en nuevo Convenio Marco Desarrollo de
+             Software ID 2239-4-LR20, obliga a que los organismos públicos deban completar un
+             formulario electrónico con la finalidad de enviar automáticamente a los proveedores
+             adjudicados, los requerimientos de servicios a contratar a través de una cotización
+             publicada en el sistema de información. Por su parte, los proveedores adjudicados en la
+             categoría correspondiente al servicio a contratar tendrán la opción de ingresar una
+             cotización en respuesta del requerimiento efectuado por la entidad, cuyo contenido se
+             entenderá, para todos los efectos, parte de las condiciones pactadas en caso de ser
+             seleccionado.
+
+             Las entidades, posterior a la recepción de las ofertas, deberán evaluar éstas de
+             conformidad con lo dispuesto en el requerimiento (cotización) y las Bases de la Licitación
+             2239-4-LR20, para seleccionar la oferta más conveniente. Una vez seleccionado el
+             proveedor, se debe adjuntar un acto administrativo para aprobar evaluación técnica y otro
+             acto administrativo para autorizar la evaluación económica conjunto con la adjudicación,
+             pero ni la legislación ni la directiva indican que tipo de documento corresponde al acto
+             administrativo. Finalmente se suscribe un acuerdo complementario que recoge información
+             de la cotización, los requerimientos y la oferta del adjudicatario, previa recepción conforme
+             de la garantía de fiel cumplimiento para emitir la Orden de Compra.
+
+             Dado lo anteriormente mencionado, es que el Departamento de Abastecimiento solicita la
+             orientación de esta Fiscalía para tener claridad sobre qué documento está definido como
+             acto administrativo, en vista que el convenio solicita adjuntar dos actos administrativos.
+
+             Revisados y analizados los antecedentes, esto es, Bases de Convenio Marco ID 2239-4-
+             LR20, Guía de uso de comprador y su presentación, esta Fiscalía, hace presente que:
+
+             1. El artículo 1 de la Ley 19.886 de Bases sobre contratos administrativos de suministro y
+             prestación de servicios, establece que “Los contratos que celebre la Administración del
+             Estado, a título oneroso, para el suministro de bienes muebles, y de los servicios que se
+             requieran para el desarrollo de sus funciones, se ajustarán a las normas y principios del
+             presente cuerpo legal y de su reglamentación. Supletoriamente, se les aplicarán las normas
+             de Derecho Público y, en defecto de aquéllas, las normas de Derecho Privado”
+
+             2. De esta manera, el artículo 3 de la Ley 19.880 de Bases de los procedimientos
+             administrativos que rigen los actos de los Órganos de la Administración del Estado, se
+             refiere al Concepto de Acto Administrativo, indicando que: “Las decisiones escritas que
+             adopte la Administración se expresarán por medio de actos administrativos.
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=160699360                                             1/3
+18/2/2021                                 https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=160699360
+
+             Para efectos de esta ley se entenderá por acto administrativo las decisiones formales que
+             emitan los órganos de la Administración del Estado en las cuales se contienen
+             declaraciones de voluntad, realizadas en el ejercicio de una potestad pública”
+
+             Clasifica en seguida, a los actos administrativos en decretos supremos y resoluciones.
+
+             Define el decreto supremo como una orden escrita del Presidente de la República o de un
+             Ministro “por orden del Presidente” sobre asuntos de su competencia.
+
+             A su turno, las resoluciones son actos de análoga naturaleza que dictan las autoridades
+             dotadas de su poder de decisión.
+
+             Agrega también la norma, que son actos administrativos los dictámenes o declaraciones de
+             juicio, constancia o conocimiento que realicen los órganos de la Administración en el
+             ejercicio de sus competencias.
+
+             En su inciso final el artículo 3 de la Ley 19.880 señala que los actos administrativos gozan
+             de una presunción de legalidad, de imperio y exigibilidad frente a sus destinatarios, desde
+             su entrada en vigencia, autorizando su ejecución de oficio de oficio por la autoridad
+             administrativa, salvo que mediare una orden de suspensión dispuesta por la autoridad
+             administrativa dentro del procedimiento impugnatorio o por el juez, conociendo por la vía
+             jurisdiccional.
+
+             En virtud de lo expuesto, esta Fiscalía entiende que en el caso en comento se deben
+             adjuntar dos resoluciones fundadas: una que apruebe la evaluación técnica y otra que
+             apruebe la evaluación económica en conjunto con la adjudicación, la cual se firme por la
+             autoridad que tenga las facultades correspondientes en la Corporación, Gerente de
+             Finanzas y Administración o Jefe de Departamento de Abastecimiento, considerando que
+             el Convenio Marco, materia de esta consulta, tiene por objetivo realizar contrataciones de
+             desarrollos y/o mantención de software y servicios profesionales TI para proyectos
+             tecnológicos de los organismos públicos, cuyos montos sean entre 30 y 500 UTM, a través
+             de una cotización. Lo anterior, mientras no se reciba una instrucción clara en contrario.
+
+             Finalmente, esta Fiscalía adjunta dos propuestas en borrador de las resoluciones que se
+             requerirían, para los comentarios y ajustes que se estimen necesarios.
+
+            Saluda atentamente a usted
+
+
+
+
+                                                                            FERNANDO LLONA MÁRQUEZ
+                                                                                    FISCAL
+                                                                                   FISCALIA
+
+            Incl.:Documento Digital: 1. PROPUESTA BORRADOR APRUEBA EVALUACIÓN TÉCNICA
+                  Documento Digital: 2. PROPUESTA BORR APRUEBA E ECONOMICA Y ADJUDICA
+
+            c.c.:Carolina Contreras Torres Secretaria Fiscalia
+                 Jorge Leiva Pezoa Jefe (I) Departamento Abastecimiento
+                 Álvaro Adolfo Acuña Verrugio Jefe Compras Estratégicas y Tácticas Departamento
+                 Abastecimiento
+                 José Luis Zamora Herrera Profesional Departamento Abastecimiento
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=160699360                                             2/3
+18/2/2021                                 https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=160699360
+
+               Pablo Marcelo Perez Saavedra Profesional Departamento Abastecimiento
+               José Luis Zamora Herrera Analista de Compras (S) Departamento Abastecimiento
+               Jaime Carvajal Tocornal Profesional Departamento Abastecimiento
+               Lorena Cavieres Gonzalez Jefa (I) Gestión Administrativa y Compras Operativas
+               Priscila Zamora Bustos Profesional Gestión Administrativa y Compras Operativas
+               Andrea Muñoz Aceituno Profesional Gestión Administrativa y Compras Operativas
+               Daniel Correa Diaz Abogado Jefe Fiscalia
+               Daniela Andrea Prokurica Núñez Abogada Fiscalia
+               Fernando Llona Márquez Fiscal Fiscalia
+               Sergio Gonzalez Saldaña Abogado Fiscalia
+               Carmen Paz Medina Parra Abogada Fiscalia
+               Simón Barschak Brunman Abogado Fiscalia
+               Daniel Correa Diaz Abogado Fiscalia
+               Álvaro Felipe Rivera Rojas Abogado Fiscalia
+               Susana Elizabeth Arenas Fernández Abogada Fiscalia
+               Galit Perla Kohen Frias Abogada Fiscalia
+               Raúl Diaz Castillo Profesional Abogado Fiscalia
+               Susana Elizabeth Arenas Fernández Consultor Fiscalia
+
+
+
+
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=160699360                                             3/3
+

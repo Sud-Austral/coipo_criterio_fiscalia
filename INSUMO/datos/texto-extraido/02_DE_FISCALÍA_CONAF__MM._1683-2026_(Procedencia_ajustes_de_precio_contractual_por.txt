@@ -1,0 +1,266 @@
+8/4/26, 21:20                                  ceropapel.conaf.cl/documentos/documento.php?idDocumento=362444074
+
+
+
+
+           Corporación Nacional Forestal
+           Oficina Central
+           Fiscalía
+           DPN
+
+                                             MEMORANDUM Nº 1683/2026
+           A      : GERENTE (I)-GERENCIA DE PROTECCIÓN CONTRA INCENDIOS
+                    FORESTALES
+           DE     : DANIEL CORREA DÍAZ-FISCAL (I) FISCALÍA
+           MATERIA: ANÁLISIS DE LA PROCEDENCIA JURÍDICA DE AJUSTAR PRECIOS
+                    CONTRACTUALES POR ALZA DEL COMBUSTIBLE AERONÁUTICO EN EL
+                    MARCO DE LAS LICITACIONES PÚBLICAS CONAF ID 633‑71‑LR23,
+                    633‑73‑LR23, 633‑80‑LR23 Y 633‑68‑LR23, CONFORME A LAS BASES DE
+                    LICITACIÓN Y A LA LEY N° 19.886.
+           FECHA : 08/04/2026
+
+
+
+                Mediante Memo N° 1608 de 2 de abril de 2026, se ha solicitado a esta Fiscalía
+                pronunciamiento jurídico respecto de la procedencia de modificar o ajustar los precios
+                contractuales pactados en diversos contratos de prestación de servicios aéreos celebrados
+                por la Corporación Nacional Forestal, fundado en el incremento del costo del combustible
+                aeronáutico, ocurrido con posterioridad a la adjudicación y durante la ejecución contractual.
+
+                En particular, la consulta se refiere contratos asociados a los procesos de licitación pública
+                ID 633‑71‑LR23, 633‑73‑LR23, 633‑80‑LR23 y ID 633‑68‑LR23, destinados a la
+                contratación, respectivamente, de: Servicio de Aviones Cisterna tipo AC1, Servicio de
+                Helicópteros tipo B, Servicio de Aviones Cisterna tipo AC2, y Servicio de Aviones Cisterna
+                Large Air Tanker (LAT), para el combate de incendios forestales durante los períodos
+                2023‑2024, 2024‑2025 y 2025‑2026, bajo la modalidad de contratos administrativos de
+                ejecución sucesiva en el tiempo.
+
+                Los contratos adjudicados contemplan un Contrato Garantizado, con precios expresados en
+                dólares estadounidenses (USD), determinados sobre la base del Costo del Contrato
+                Garantizado, Costo Día Stand‑by y Costo Hora de Vuelo, conforme a los respectivos
+                Anexos Económicos.
+
+                En este contexto, resulta necesario que se analice, desde la perspectiva del Derecho
+                Administrativo chileno y la normativa de contratación pública, la eventual procedencia
+                jurídica de acceder a solicitudes de ajuste o modificación de los precios contractuales
+                pactados, con motivo del alza en el precio del combustible aeronáutico.
+
+                I. MARCO NORMATIVO Y CONTRACTUAL
+
+                El presente análisis se sustenta, principalmente, en las siguientes disposiciones:
+
+                -Ley N° 19.886, sobre Bases de los Contratos Administrativos de Suministro y Prestación de
+                Servicios.
+
+                -Reglamento de la Ley N° 19.886, aprobado por Decreto Supremo N° 250, de 2004, del
+                Ministerio de Hacienda.
+
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=362444074                                          1/5
+8/4/26, 21:20                                  ceropapel.conaf.cl/documentos/documento.php?idDocumento=362444074
+                -Bases Administrativas y Especificaciones Técnicas que rigen las licitaciones objeto del
+                presente análisis.
+
+                -Principios generales de la contratación pública, en especial los de legalidad, igualdad entre
+                oferentes y estricta sujeción a las bases.
+
+                En relación con la normativa aplicable, corresponde precisar que la Ley N° 19.886 fue
+                modificada por la Ley N° 21.634, que moderniza el sistema de compras públicas, publicada
+                en el Diario Oficial el 11 de diciembre de 2023, la cual entró en vigencia, como regla
+                general, el 11 de diciembre de 2024, contemplando una aplicación anticipada del Capítulo
+                de Probidad y Transparencia desde la fecha de su publicación.
+
+                Ahora bien, el artículo tercero transitorio de la Ley N° 19.886, en su texto vigente, establece
+                expresamente que: “Los contratos administrativos que se regulan en esta ley, cuyas bases
+                hayan sido aprobadas antes de su entrada en vigencia, se regularán por la normativa legal
+                vigente a la fecha de aprobación de dichas bases de licitación.”
+
+                Atendido que los procesos licitatorios objeto del presente análisis cuentan con bases de
+                licitación aprobadas en septiembre de 2023, resulta jurídicamente aplicable el régimen legal
+                y reglamentario vigente a la fecha de dicha aprobación, y no aquel introducido con
+                posterioridad por la Ley N° 21.634.
+
+                En consecuencia, no resulta aplicable a estos procesos ni a los contratos que de ellos
+                derivan el Decreto N° 661, de 12 de diciembre de 2024, que contiene el actual Reglamento
+                de la Ley de Compras Públicas, debiendo regirse íntegramente por la normativa anterior,
+                tanto legal como reglamentaria, vigente al momento de la aprobación de las respectivas
+                bases.
+
+                II. ANÁLISIS JURÍDICO
+
+                1. Naturaleza del contrato y estructura económica
+
+                Las Bases Administrativas establecen de manera expresa que los contratos en análisis
+                corresponden a contratos de ejecución en el tiempo, de naturaleza plurianual, cuyos precios
+                se fijan ex ante mediante la figura del Contrato Garantizado, el cual constituye un elemento
+                esencial tanto de la oferta económica como del acto de adjudicación.
+
+                El Anexo Económico exigió a los oferentes desglosar los distintos componentes del precio,
+                todos expresados en USD, estableciendo asimismo rangos y límites de admisibilidad de las
+                ofertas. En dicho contexto, las Bases disponen de manera inequívoca que:
+
+                “Será de cargo del oferente considerar todos los costos y/o impuestos necesarios para dar
+                cumplimiento a la contratación (…) Todo error en la oferta será de exclusiva responsabilidad
+                del oferente.”
+
+                De lo anterior se desprende que el contrato fue estructurado como un contrato de precio fijo
+                o suma alzada, en el cual el riesgo económico de la ejecución es asumido por el proveedor,
+                no contemplándose mecanismos de reajustabilidad posterior.
+
+                Las Especificaciones Técnicas refuerzan lo anterior, al señalar que el precio del servicio
+                comprende, entre otros conceptos: combustible y lubricantes; transporte y suministro de
+                combustible; logística operativa; tasas, derechos, internación, mantenciones y repuestos;
+                cualquier otro costo propio de la operación aérea.
+
+                En consecuencia, el riesgo asociado a la variación del precio del combustible ha sido
+                expresa y claramente asignado al proveedor, configurándose una regla objetiva de
+                imputación del riesgo económico.
+
+                Del análisis íntegro de las Bases Administrativas y Especificaciones Técnicas, se constata
+                que:
+
+                -No existe cláusula de reajuste de precios, revisión tarifaria ni fórmula de indexación.
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=362444074                                          2/5
+8/4/26, 21:20                                  ceropapel.conaf.cl/documentos/documento.php?idDocumento=362444074
+                -El precio acordado es fijo, cierto y determinado, no sujeto a variación, salvo por los
+                mecanismos operativos expresamente previstos (horas extra, días extra, canjes), los que no
+                alteran el valor unitario pactado.
+
+                -La expresión del precio en USD constituye un mecanismo de mitigación del riesgo
+                cambiario, más no una habilitación para reajustes adicionales.
+
+                2. Principio de estricta sujeción a las Bases
+
+                Conforme a los artículos 9 y 10 de la Ley N° 19.886, los contratos administrativos: se rigen
+                estrictamente por las bases de licitación; y obligan tanto a la entidad licitante como al
+                adjudicatario al exacto cumplimiento de lo allí previsto.
+
+                En este contexto, la ausencia de una cláusula de reajuste en las Bases impide
+                jurídicamente introducirla con posterioridad a la adjudicación, por cuanto ello vulneraría los
+                principios de: igualdad entre los oferentes; transparencia; libre concurrencia; juridicidad y
+                legalidad administrativa.
+
+                En este sentido, la Contraloría General de la República ha señalado reiteradamente que el
+                principio de estricta sujeción a las bases rige tanto la etapa licitatoria como la ejecución del
+                contrato, constituyendo las bases y la oferta del adjudicatario el marco jurídico vinculante de
+                derechos y obligaciones para las partes, en resguardo de la legalidad y transparencia que
+                deben primar en la contratación administrativa (aplica, entre otros, dictamen N° E149544,
+                de 2025).
+
+                3. Régimen contractual del combustible
+
+                El tratamiento contractual del combustible en los instrumentos que rigen las licitaciones
+                analizadas es claro, expreso y sistemático, en particular:
+
+                -Las Especificaciones Técnicas disponen que la provisión, disponibilidad y calidad del
+                combustible es de responsabilidad exclusiva del adjudicatario.
+
+                -Se imponen al proveedor obligaciones relativas al carguío, transporte, almacenamiento,
+                certificaciones y cumplimiento normativo.
+
+                -Las interrupciones del servicio por falta de combustible, atribuibles a responsabilidades del
+                proveedor, faculta a CONAF a dejar inoperativa la aeronave y aplicar la multa de carácter
+                muy grave por inoperatividad.
+
+                -El capítulo relativo al Componente del Precio establece que el precio ofertado debe
+                comprender todo lo necesario para la operación, incluyendo explícitamente combustible y
+                lubricantes, junto a cualquier otro costo operacional propio de la aeronave.
+
+                Este conjunto normativo permite concluir que conforme a las bases de la licitación el riesgo
+                económico asociado al combustible fue asignado al proveedor, debiendo ser
+                razonablemente internalizado al momento de formular la oferta económica.
+
+                4. Inexistencia de cláusulas de reajuste o revisión de precios
+
+                Del examen íntegro de las Bases Administrativas, Especificaciones Técnicas y Anexos
+                contractuales, se constata que:
+
+                -No existen cláusulas de reajuste automático u ordinario.
+
+                -No se contempla indexación por variación del precio del combustible ni de otros insumos.
+
+                -No se prevén mecanismos de revisión extraordinaria de precios.
+
+                -El diseño del proceso licitatorio confirma que el precio fue un factor determinante de
+                adjudicación, reforzando su carácter de condición esencial e intangible del contrato.
+
+
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=362444074                                          3/5
+8/4/26, 21:20                                  ceropapel.conaf.cl/documentos/documento.php?idDocumento=362444074
+                5. Renovación contractual y precios
+
+                Si bien las Bases contemplan la posibilidad de renovación por temporada, dicha renovación
+                se encuentra sujeta a disponibilidad presupuestaria, buen desempeño y acuerdo de las
+                partes. Tal renovación no constituye un nuevo contrato autónomo, ni habilita, por sí sola, la
+                modificación de los precios originalmente pactados.
+
+                En mérito de lo expuesto, esta Fiscalía concluye que:
+
+                -No existe base legal ni contractual que habilite la modificación de los precios del contrato
+                por alza del combustible aeronáutico.
+
+                -El combustible fue definido de manera expresa como un costo de cargo exclusivo del
+                adjudicatario e incorporado al precio ofertado.
+
+                -Los contratos fueron estructurados como contratos de precio fijo, a riesgo del proveedor,
+                sin cláusulas de reajuste o revisión de precios.
+
+                En consecuencia, no resulta jurídicamente procedente acceder a solicitudes de aumento de
+                precios fundadas en dicha causal.
+
+                Se recomienda:
+
+                -Rechazar, de manera fundada, cualquier solicitud de modificación de precios basada en el
+                aumento del costo del combustible.
+
+                -Mantener la ejecución contractual en estricta sujeción a las Bases Administrativas y
+                Especificaciones Técnicas.
+
+                -Sin perjuicio de lo anterior, se sugiere solicitar la confirmación de la renovación de los
+                contratos vigentes, - a la brevedad- atendido que, al tratarse de un acto de mutuo acuerdo,
+                no existe obligación de los proveedores de acceder a ella, permitiendo así a la Corporación
+                evaluar, para futuros procesos licitatorios y desde una perspectiva de política contractual, la
+                eventual incorporación de mecanismos objetivos de ajuste de precios, resguardando en
+                todo caso los principios de legalidad del gasto e igualdad entre oferentes.
+
+           Saluda atentamente a usted
+
+
+
+
+                                                                               DANIEL CORREA DÍAZ
+                                                                                    FISCAL (I)
+                                                                                    FISCALÍA
+
+
+                                                              Adjuntos
+
+                                        Documento            Fecha Publicación
+                                        1608/2026 Memorandum 02/04/2026
+
+           c.c.:Raúl Diaz Castillo Correspondencia (I) Fiscalía
+                Carola Arli Otárola Romero Jefa Sección Gestión de Contratos Aéreos Departamento
+                Planificación, Gestión y Control Presupuestario
+
+
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=362444074                                          4/5
+8/4/26, 21:20                                  ceropapel.conaf.cl/documentos/documento.php?idDocumento=362444074
+                José Luis Zamora Herrera Jefe Sección Análisis, Gestión y Control Presupuestario
+                (I) Departamento Planificación, Gestión y Control Presupuestario
+                Miguel Oneto Rosales Gerente (I) Gerencia de Finanzas y Administración
+                Michelle Fierro Peña Jefa (I) Departamento Finanzas
+                María Jesús Cabello Reyes Jefa (I) Departamento Abastecimiento
+                Debora Gabriela Bascur Montanares Profesional Fiscalía
+                Macarena Soledad Astaburuaga Torres Profesional Departamento Planificación,
+                Gestión y Control Presupuestario
+                Javiera Castillo Ariste Profesional Departamento Planificación, Gestión y Control
+                Presupuestario
+                Paola Natalia Martínez Zuñiga Profesional Departamento Planificación, Gestión y
+                Control Presupuestario
+                Raúl Diaz Castillo Abogado Jefe (I) Fiscalía
+                Daniela Andrea Prokurica Núñez Abogada Fiscalía
+
+
+
+
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=362444074                                          5/5
+
