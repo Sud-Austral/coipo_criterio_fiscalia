@@ -1,0 +1,203 @@
+archivos:
+
+  - ruta: INSUMO/codigo/esquema.sql
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] define entidades, no valores; conteo de valores 0 segun la evidencia disponible"
+    puede_versionarse: true
+    uso: define el modelo de documentos, criterios, citas, descriptores, normas y relaciones [INSUMO/codigo/esquema.sql:25]
+
+  - ruta: INSUMO/codigo/nucleo.py
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] sin patron de dato personal detectado en la evidencia; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: carga los textos, los normaliza, extrae pasajes y parrafos y calcula la huella del documento original
+
+  - ruta: INSUMO/codigo/tesauro.py
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] vocabulario controlado; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: resuelve el termino preferido de cada descriptor [INSUMO/docs/05-TESAURO-Y-VOCABULARIO.md]
+
+  - ruta: INSUMO/codigo/build.py
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] sin patron de dato personal detectado en la evidencia; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: primera generacion del constructor del conjunto de datos
+
+  - ruta: INSUMO/codigo/build2.py
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] sin patron de dato personal detectado en la evidencia; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: segunda generacion del constructor, que importa a la primera
+
+  - ruta: INSUMO/codigo/dataset.py
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] podria llevar rutas o parametros escritos dentro del programa; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: define el conjunto de datos sobre el que trabajan los programas
+
+  - ruta: INSUMO/codigo/indice.py
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] sin patron de dato personal detectado en la evidencia; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: construye el indice consultable con materias, normas y pasaje principal
+
+  - ruta: INSUMO/codigo/consistencia.py
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] sin patron de dato personal detectado en la evidencia; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: comprueba la consistencia del conjunto construido
+
+  - ruta: INSUMO/codigo/integridad.py
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] sin patron de dato personal detectado en la evidencia; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: ejecuta quince comprobaciones de integridad y recoge el resultado de la de consistencia
+
+  - ruta: INSUMO/codigo/app.js
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] sin patron de dato personal detectado en la evidencia; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: comportamiento de la pagina de prototipo [INSUMO/prototipo/prototipo-fiscalia-v2.html]
+
+  - ruta: INSUMO/codigo/estilo.css
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] sin patron de dato personal detectado en la evidencia; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: presentacion de la pagina de prototipo
+
+  - ruta: INSUMO/prototipo/prototipo-fiscalia-v2.html
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] podria traer datos incrustados del conjunto; contenido no extraido; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: pagina que muestra el resultado del procesamiento
+
+  - ruta: INSUMO/datos/indice.json
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] derivado del conjunto de pronunciamientos; contiene pasajes textuales recortados de esos documentos [INSUMO/codigo/nucleo.py]; si esos pasajes nombran personas no consta; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: indice consultable generado por [INSUMO/codigo/indice.py]
+
+  - ruta: INSUMO/datos/consistencia.json
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] resultado de una comprobacion; puede citar fragmentos del conjunto; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: salida de [INSUMO/codigo/consistencia.py]
+
+  - ruta: INSUMO/datos/integridad.json
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] resultado de una comprobacion; puede citar fragmentos del conjunto; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: salida de [INSUMO/codigo/integridad.py]
+
+  - ruta: INSUMO/datos/verificacion.json
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] resultado de una comprobacion; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: registro de verificacion del conjunto construido
+
+  - ruta: INSUMO/LEEME.md
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] contenido no extraido; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: explica el conjunto de insumos; no fue leido en este ejercicio
+
+  - ruta: INSUMO/docs/00-RESUMEN-EJECUTIVO.md
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] contenido no extraido; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: resumen del proyecto
+
+  - ruta: INSUMO/docs/01-ESPECIFICACION-FUNCIONAL.md
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] contenido no extraido; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: especificacion de lo que el sistema debe hacer
+
+  - ruta: INSUMO/docs/02-MODELO-DE-DATOS.md
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] contenido no extraido; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: explica el modelo que define [INSUMO/codigo/esquema.sql:25]
+
+  - ruta: INSUMO/docs/03-REGLAS-DE-CALIDAD.md
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] contenido no extraido; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: reglas que comprueban [INSUMO/codigo/integridad.py] y [INSUMO/codigo/consistencia.py]
+
+  - ruta: INSUMO/docs/04-CANALIZACION-DE-INGESTA.md
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] contenido no extraido; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: describe como entra un documento nuevo al conjunto
+
+  - ruta: INSUMO/docs/05-TESAURO-Y-VOCABULARIO.md
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] contenido no extraido; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: define el vocabulario controlado que resuelve [INSUMO/codigo/tesauro.py]
+
+  - ruta: INSUMO/docs/06-PLAN-DE-IMPLEMENTACION.md
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] contenido no extraido; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: plan de trabajo
+
+  - ruta: INSUMO/docs/07-HALLAZGOS-DEL-CORPUS.md
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] describe el conjunto de pronunciamientos y podria citarlos; contenido no extraido; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: hallazgos sobre el conjunto de documentos de partida
+
+  - ruta: INSUMO/docs/08-BITACORA-DE-DEFECTOS.md
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] contenido no extraido; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: registro de defectos detectados durante la construccion
+
+  - ruta: .github/workflows/readme.yml
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] sin patron de dato personal detectado en la evidencia; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: flujo automatico asociado al archivo de presentacion del repositorio
+
+  - ruta: .gitattributes
+    sha256: "[PENDIENTE] sin calcular"
+    origen: "[PENDIENTE] quien lo entrego y cuando"
+    contiene_pii: "[VERIFICAR] sin patron de dato personal detectado en la evidencia; conteo [PENDIENTE]"
+    puede_versionarse: true
+    uso: atributos de tratamiento de archivos en el control de versiones
+
+hallazgos:
+  - "Los veinte archivos de texto extraido bajo INSUMO/datos/texto-extraido/ NO se declaran individualmente en este manifiesto: sus nombres incluyen numeros de actos y de normas, y transcribirlos aqui equivaldria a afirmar contenido normativo que este ejercicio no puede cerrar. Debe declararlos el script de sellado, que los lee del disco. Es el vacio mas importante de este manifiesto. [VERIFICAR]"
+  - "El repositorio no tiene .gitignore en la lista de archivos, y la evidencia lo marca como no privado, mientras su contenido es material interno de pronunciamiento. [VERIFICAR]"
+  - "El esquema concede permisos a un perfil publico de base de datos [INSUMO/codigo/esquema.sql:139]. [VERIFICAR]"
+  - "El analizador no extrajo el contenido de los archivos, de modo que ningun conteo de patrones de dato personal pudo calcularse. Todos los conteos quedan [PENDIENTE]."
