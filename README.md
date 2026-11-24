@@ -18,7 +18,8 @@ Corre sobre 20 pronunciamientos reales (carpeta `INSUMO/datos/texto-extraido/`).
 | `INSUMO/prototipo/prototipo-fiscalia-v2.html` | Prototipo autocontenido; se abre en el navegador |
 | `INSUMO/datos/` | `indice.json`, `integridad.json`, `consistencia.json`, `verificacion.json` y los 20 textos congelados |
 | `insumos/` | `00-PROBLEMA.md`, `01-SOLUCION.md`, `MANIFIESTO.yaml` (formato de la flota COIPO) |
-| `.github/workflows/readme.yml` | Llama al generador de README de la flota (`Sud-Austral/coipo_aireadme`, `@v1`) |
+
+No hay workflows de GitHub Actions: el generador de README (`readme.yml`) se quitó el 2026-10-25 y este archivo se mantiene a mano.
 
 Nota: la carpeta `INSUMO/` (mayúsculas) es material del proyecto; `insumos/` (minúsculas) es la documentación de la flota.
 
@@ -26,7 +27,7 @@ Nota: la carpeta `INSUMO/` (mayúsculas) es material del proyecto; `insumos/` (m
 
 Abrir `INSUMO/prototipo/prototipo-fiscalia-v2.html` en el navegador (no requiere servidor).
 
-## Cómo regenerar (según `INSUMO/LEEME.md`; no lo ejecuté)
+## Cómo regenerar (según `INSUMO/LEEME.md`; no comprobado al 2026-11-24)
 
 Requiere Python 3 y `pdftotext` (poppler) para reprocesar PDFs. Los scripts tienen rutas fijas `/tmp/pron/...` (por ejemplo `/tmp/pron/txt`, `/tmp/pron/app`) que hay que ajustar o recrear.
 

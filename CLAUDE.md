@@ -11,14 +11,14 @@ Biblioteca de criterio jurídico de Fiscalía CONAF (prototipo + diseño). Visi�
 - `INSUMO/prototipo/` — HTML generado por `build2.py`; no editarlo directamente, cambiar `app.js`/`estilo.css`/`build2.py` y regenerar.
 - `INSUMO/docs/` — especificación; `08-BITACORA-DE-DEFECTOS.md` explica por qué existe cada regla: leerla antes de tocar `integridad.py`.
 
-## Comandos (de `INSUMO/LEEME.md`; no los ejecuté)
+## Comandos (de `INSUMO/LEEME.md`; no comprobados, revisado el 2026-11-24)
 Desde `INSUMO/codigo`: `python3 indice.py`, `python3 integridad.py`, `python3 consistencia.py`, `python3 build2.py`. Necesitan `pdftotext` para reprocesar PDFs.
 
 ## Trampas
 - Las rutas están fijas a `/tmp/pron/txt` y `/tmp/pron/app` (en `nucleo.py`, `build*.py`, `indice.py`, `consistencia.py`). Los scripts no funcionan tal cual desde el repo en Windows; no cambiarlas sin avisar.
 - `build2.py` importa a `build.py`; no consta cuál es la generación vigente del constructor más allá de que el prototipo actual es `v2`.
 - Hay dos carpetas: `INSUMO/` (proyecto) e `insumos/` (flota COIPO). No fusionarlas ni cambiar mayúsculas.
-- `.github/workflows/readme.yml` delega en `coipo_aireadme@v1`; el `uses:` y `engine_ref` deben coincidir.
+- El workflow `readme.yml` (generador `coipo_aireadme`) se quitó el 2026-10-25 (commit `4f8b1a6`): el README se mantiene a mano y no hay ningún workflow en `.github/` (verificado el 2026-11-24).
 - El corpus incluye datos personales: no copiar contenido de los textos a otros documentos, issues o PRs.
 - Marcas en `insumos/`: `[PENDIENTE]` lo cierra el área usuaria; `[VERIFICAR]` lo cierra Fiscalía.
 
